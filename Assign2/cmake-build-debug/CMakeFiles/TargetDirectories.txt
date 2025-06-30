@@ -1,0 +1,3 @@
+C:/Users/mobig/CLionProjects/OOP Assignments/Assign2/cmake-build-debug/CMakeFiles/Assign2_20236113_20236043.dir
+C:/Users/mobig/CLionProjects/OOP Assignments/Assign2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mobig/CLionProjects/OOP Assignments/Assign2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
