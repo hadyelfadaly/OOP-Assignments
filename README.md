@@ -2,7 +2,6 @@
 
 A comprehensive C++ flight reservation system that allows users to book seats, manage passengers, and handle flight operations with an interactive seating plan.
 
-
 ## Features
 
 ### User Features
@@ -119,7 +118,7 @@ A comprehensive C++ application for managing medical professionals, featuring po
 - **File I/O Operations**: Persistent data storage
 - **Const Correctness**: Immutable getter methods
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Class Hierarchy
 ```
