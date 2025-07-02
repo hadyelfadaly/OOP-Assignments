@@ -96,6 +96,9 @@ project/
 
 A comprehensive C++ application for managing medical professionals, featuring polymorphic doctor types (Surgeons and Specialists) with specialized fee calculation and surgery scheduling capabilities.
 
+- **Hady Hassan Sayed Hassan El Fadaly** - [Github Profile](https://github.com/hadyelfadaly)
+- **Ziad Tarek El Marsafawy** - [Github Profile](https://github.com/ziad-91)
+
 ##  Features
 
 ### Core Functionality
