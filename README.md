@@ -2,6 +2,10 @@
 
 A comprehensive C++ flight reservation system that allows users to book seats, manage passengers, and handle flight operations with an interactive seating plan.
 
+## Team Members
+- **Hady Hassan Sayed Hassan El Fadaly** - [Github Profile](https://github.com/hadyelfadaly)
+- **Khaled Mohamed** - [Github Profile](https://github.com/Khaled-mohamed5)
+
 ## Features
 
 ### User Features
